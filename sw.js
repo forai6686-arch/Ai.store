@@ -2,7 +2,7 @@
 // AI STORE — SERVICE WORKER
 // Version badlo jab bhi update karo site ko!
 // ================================================
-const CACHE_NAME = 'ai-store-v1';
+const CACHE_NAME = 'ai-store-v2';
 const ASSETS = [
   '/index.html',
   '/manifest.json'
