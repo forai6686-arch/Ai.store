@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /go/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://aiuniversalstore.netlify.app/sitemap.xml
