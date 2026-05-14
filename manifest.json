@@ -1,0 +1,25 @@
+{
+  "name": "AI Store — Universe of AI",
+  "short_name": "AI Store",
+  "description": "100+ Best AI Tools Ek Jagah Pe",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#05050f",
+  "theme_color": "#7c5cff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/twemoji:robot.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://api.iconify.design/twemoji:robot.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "technology"]
+}
